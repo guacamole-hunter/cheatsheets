@@ -1,0 +1,26 @@
+Command
+docker build
+docker CLI
+docker container rm
+docker images
+docker ps
+docker pull
+docker push
+docker run
+docker run
+docker stop
+docker tag
+    Introduction to Containers, Kubernetes, and OpenShift
+Module 1 Cheat Sheet: Understanding the Benefits of Containers The Docker CLI
+Description
+                   Builds an image from a Dockerfile.
+                   Start the Docker command line interface.
+                   Removes a container.
+                   Lists the images.
+                   Lists the containers.
+                   Pulls the latest image or repository from a registry.
+                   Pushes an image or a repository to a registry.
+                   Runs the <image name> in a new container.
+                   Runs a command in a new container.
+                   Stops one or more running containers.
+Creates a tag for a target image that refers to a source image.
