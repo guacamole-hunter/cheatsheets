@@ -1,5 +1,5 @@
 
-                                                #The kubectl CLI
+                                                The kubectl CLI
 Command                                                  Description
 kubectl apply                                            Apply a configuration to a resource.
 kubectl config get-clusters                              Displays clusters defined in the kubeconfig.
